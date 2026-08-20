@@ -1,6 +1,6 @@
 # 7 GPT Image 2 Prompts for Posters, Product Photos, and Text Layouts
 
-**Published article:** [Read the formatted version on PromptZone](https://promptzone.com/bestimage888_534e4409a78f/7-gpt-image-2-prompts-for-posters-product-photos-and-clear-text-2d2)
+**Published article:** [Read the formatted version on PromptZone](https://promptzone.com/heydreamai/7-gpt-image-2-prompts-for-posters-product-photos-and-text-layouts-5hi9)
 
 > **Disclosure:** This article was prepared for HeyDream. The prompts are original methodology templates, not claims about a tested HeyDream output. Model capabilities mentioned below rely on cited OpenAI documentation.
 
