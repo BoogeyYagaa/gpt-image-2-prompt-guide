@@ -1,4 +1,4 @@
-# 7 GPT Image 2 Prompts for Posters, Product Photos, and Clear Text
+# 7 GPT Image 2 Prompts for Posters, Product Photos, and Text Layouts
 
 **Published article:** [Read the formatted version on PromptZone](https://promptzone.com/bestimage888_534e4409a78f/7-gpt-image-2-prompts-for-posters-product-photos-and-clear-text-2d2)
 
@@ -6,9 +6,11 @@
 
 Useful GPT Image 2 prompts define a visual job instead of piling style words onto a subject. These seven examples cover poster typography, product photography, controlled edits, and one deliberately crowded stress test. Each is a reusable starting point, not a guarantee of identical output.
 
-![Structured GPT Image 2 prompts for posters, products, and controlled edits](./assets/hero-16x9.png)
+This is a prompt-template guide. Images labeled as reference inputs are not verified GPT Image 2 outputs or BestImage.AI test results.
 
-*AI-generated editorial illustration showing the three prompt categories in this guide; it is not a BestImage.AI test result.*
+![Still life illustrating GPT Image 2 prompt planning with poster cards, a blue bottle, red mug, books, plant, and desk lamp](./assets/hero-16x9.png)
+
+*AI-generated editorial illustration of the prompt categories in this guide; it does not depict model results or a product interface.*
 
 ## A Reusable Structure for GPT Image 2 Prompts
 
@@ -24,7 +26,7 @@ OpenAI's [GPT Image prompting guide](https://developers.openai.com/cookbook/exam
 
 For editing, split the last step into what must change and what must remain unchanged. OpenAI's [GPT Image 2 model page](https://developers.openai.com/api/docs/models/gpt-image-2) documents generation and editing support, although controls can differ by interface.
 
-## GPT Image 2 Prompts for Posters and Clear Text
+## GPT Image 2 Prompts for Posters and Text Layouts
 
 ### 1. Minimal Poster With One Short Headline
 
@@ -49,10 +51,6 @@ Create a vertical poster for a fictional botanical exhibition. Use a deep forest
 If the hierarchy collapses, shorten the supporting copy before adding style instructions. The four text blocks should remain visually distinct.
 
 ## GPT Image 2 Product Photography Prompts
-
-![Unbranded cobalt-blue bottle prepared as a product-prompt reference](./assets/input-blue-bottle-16x9.png)
-
-*AI-generated reference image for the product and editing exercises; it is not a BestImage.AI test result.*
 
 ### 3. White-Background Product Hero Shot
 
@@ -82,15 +80,19 @@ The [OpenAI image generation guide](https://developers.openai.com/api/docs/guide
 
 Use a project-owned reference image containing a red mug, two books, a plant, and a lamp.
 
-![Tabletop reference image with a red mug, books, plant, and lamp](./assets/input-edit-tabletop-16x9.png)
+![Reference input for Prompt 5: a red ceramic mug on a sunlit wooden desk beside a black lamp, two books, and a potted plant](./assets/input-edit-tabletop-16x9.png)
 
-*AI-generated source image prepared for the object-replacement exercise; it is not an edited output or a BestImage.AI test result.*
+*Source input for Prompt 5. No edited result is shown; this AI-generated image is not a BestImage.AI test result.*
 
 ```text
 Edit the supplied image. Replace only the red ceramic mug with a clear ribbed drinking glass filled halfway with water. Preserve the camera angle, crop, tabletop, two books and their positions, plant, lamp, wall color, lighting direction, shadow softness, depth of field, and overall color balance. Keep the new glass in the mug's footprint at approximately the same height. Do not move, remove, redesign, or add any other object. Do not add text or branding.
 ```
 
 Compare everything outside the edited region. A convincing glass is still a poor edit if the books, plant, crop, or lighting changed.
+
+![Reference input for Prompt 6: a matte cobalt-blue bottle with a brushed-silver loop cap on a white background](./assets/input-blue-bottle-16x9.png)
+
+*Reference input for Prompt 6. This AI-generated image is not an evaluated GPT Image 2 or BestImage.AI output.*
 
 ### 6. Change the Background While Preserving the Subject
 
@@ -118,7 +120,7 @@ For the controlled revision, change only the copy density:
 Keep the same scene, five objects, two plinths, palette, composition, and lighting. Include only this exact copy: “CITY MAKERS MARKET”; “WEEKEND · 10 AM—6 PM”; “FREE ENTRY”. Do not add any other words or objects.
 ```
 
-Compare only the recorded outputs. Any improvement supports a narrow lesson about that run, not a universal benchmark.
+If you run both prompts, compare the resulting outputs under the same interface, settings, and input conditions. Any improvement supports a narrow lesson about that run, not a universal benchmark.
 
 ## Frequently Asked Questions
 
@@ -140,4 +142,4 @@ No. Results may vary by interface, model version, settings, input image, and run
 
 ## Conclusion
 
-The most useful GPT Image 2 prompts turn an aesthetic idea into a defined visual task. Start with intended use, composition, exact copy, and constraints; for edits, separate the change from the preserve list. You can adapt one pattern in the [BestImage.AI image generator](https://bestimage.ai/gpt-image-2/), but verify every output and record the interface, settings, date, and prompt before treating it as evidence.
+The most useful GPT Image 2 prompts turn an aesthetic idea into a defined visual task. Start with intended use, composition, exact copy, and constraints; for edits, separate the change from the preserve list. You can adapt one of these patterns in the [BestImage.AI image generator and editor labeled “GPT Image 2”](https://bestimage.ai/gpt-image-2/), but verify each result and record the page label, settings, date, prompt, and input, if any, before treating the run as evidence.
