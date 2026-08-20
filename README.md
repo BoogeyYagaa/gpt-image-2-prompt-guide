@@ -2,11 +2,11 @@
 
 **Published article:** [Read the formatted version on PromptZone](https://promptzone.com/bestimage888_534e4409a78f/7-gpt-image-2-prompts-for-posters-product-photos-and-clear-text-2d2)
 
-> **Disclosure:** This article was prepared for BestImage.AI. The prompts are original methodology templates, not claims about a tested BestImage.AI output. Model capabilities mentioned below rely on cited OpenAI documentation.
+> **Disclosure:** This article was prepared for HeyDream. The prompts are original methodology templates, not claims about a tested HeyDream output. Model capabilities mentioned below rely on cited OpenAI documentation.
 
 Useful GPT Image 2 prompts define a visual job instead of piling style words onto a subject. These seven examples cover poster typography, product photography, controlled edits, and one deliberately crowded stress test. Each is a reusable starting point, not a guarantee of identical output.
 
-This is a prompt-template guide. Images labeled as reference inputs are not verified GPT Image 2 outputs or BestImage.AI test results.
+This is a prompt-template guide. Images labeled as reference inputs are not verified GPT Image 2 outputs or HeyDream test results.
 
 ![Still life illustrating GPT Image 2 prompt planning with poster cards, a blue bottle, red mug, books, plant, and desk lamp](./assets/hero-16x9.png)
 
@@ -82,7 +82,7 @@ Use a project-owned reference image containing a red mug, two books, a plant, an
 
 ![Reference input for Prompt 5: a red ceramic mug on a sunlit wooden desk beside a black lamp, two books, and a potted plant](./assets/input-edit-tabletop-16x9.png)
 
-*Source input for Prompt 5. No edited result is shown; this AI-generated image is not a BestImage.AI test result.*
+*Source input for Prompt 5. No edited result is shown; this AI-generated image is not a HeyDream test result.*
 
 ```text
 Edit the supplied image. Replace only the red ceramic mug with a clear ribbed drinking glass filled halfway with water. Preserve the camera angle, crop, tabletop, two books and their positions, plant, lamp, wall color, lighting direction, shadow softness, depth of field, and overall color balance. Keep the new glass in the mug's footprint at approximately the same height. Do not move, remove, redesign, or add any other object. Do not add text or branding.
@@ -92,7 +92,7 @@ Compare everything outside the edited region. A convincing glass is still a poor
 
 ![Reference input for Prompt 6: a matte cobalt-blue bottle with a brushed-silver loop cap on a white background](./assets/input-blue-bottle-16x9.png)
 
-*Reference input for Prompt 6. This AI-generated image is not an evaluated GPT Image 2 or BestImage.AI output.*
+*Reference input for Prompt 6. This AI-generated image is not an evaluated GPT Image 2 or HeyDream output.*
 
 ### 6. Change the Background While Preserving the Subject
 
@@ -142,4 +142,4 @@ No. Results may vary by interface, model version, settings, input image, and run
 
 ## Conclusion
 
-The most useful GPT Image 2 prompts turn an aesthetic idea into a defined visual task. Start with intended use, composition, exact copy, and constraints; for edits, separate the change from the preserve list. You can adapt one of these patterns in the [BestImage.AI image generator and editor labeled “GPT Image 2”](https://bestimage.ai/gpt-image-2/), but verify each result and record the page label, settings, date, prompt, and input, if any, before treating the run as evidence.
+The most useful GPT Image 2 prompts turn an aesthetic idea into a defined visual task. Start with intended use, composition, exact copy, and constraints; for edits, separate the change from the preserve list. You can adapt one of these patterns in the [HeyDream image generator and editor labeled “Free GPT Image 2”](https://heydream.im/free-gpt-image-2/), but verify the current free allowance and each result, then record the page label, settings, date, prompt, and input, if any, before treating the run as evidence.
